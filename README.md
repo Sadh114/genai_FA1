@@ -1,1 +1,1 @@
-# genai_FA1
+# ecommerce-chatbot-blog
